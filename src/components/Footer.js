@@ -17,11 +17,6 @@ const Footer = () => {
     <div>
       <StyledPaper elevation={0}>
         <Typography component="p">
-          <StyledLink href="https://cpro95.tistory.com/50">
-            Link : See Tutorial
-          </StyledLink>
-        </Typography>
-        <Typography component="p">
           Make it used KaKao talk API and React, Material-UI
         </Typography>
       </StyledPaper>

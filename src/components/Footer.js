@@ -17,7 +17,12 @@ const Footer = () => {
     <div>
       <StyledPaper elevation={0}>
         <Typography component="p">
-          Make it used KaKao talk API and React, Material-UI
+          <StyledLink href="https://kakao-martin.netlify.app">
+            링크
+          </StyledLink>
+        </Typography>
+        <Typography component="p">
+          카카오톡 API와 React, Material-UI로 만들었습니다.
         </Typography>
       </StyledPaper>
     </div>
